@@ -4,6 +4,8 @@
     "baseline": "bea476a80218a581bcb5318595849520217c825e",
     "repository": "https://github.com/microsoft/vcpkg.git"
   },
+  "registries": [
+    {
       "kind": "git",
       "repository": "https://github.com/carbonengine/vcpkg-registry.git",
       "baseline": "bc651d357c2642b0eaa9e0b2d94be4ba58e6cd19",
